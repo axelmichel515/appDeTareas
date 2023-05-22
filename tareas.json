@@ -1,0 +1,19 @@
+[
+
+{
+    "titulo" : "Crear proyecto calculadora",
+    "estado" : "terminada"
+},
+
+{
+    "titulo" : "Armar aplicación de Tareas",
+    "estado" : "en progreso"
+},
+
+{
+    "titulo" : "Armar aplicación de Tareas P2",
+    "estado" : "pendiente"
+} 
+
+
+]
